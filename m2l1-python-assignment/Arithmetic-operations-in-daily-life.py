@@ -1,9 +1,9 @@
 #Question 1 Task one:Grocery store math
 
 bread = 2
-peanutButter = 3
+peanut_butter = 3
 jelly = 5
-print(bread + peanutButter + jelly)
+print(bread + peanut_butter + jelly)
 
 #Question 1 Task 2:Bank interest 
 
