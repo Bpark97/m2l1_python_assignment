@@ -1,11 +1,11 @@
-#Task one:Grocery store math
+#Question 1 Task one:Grocery store math
 
 bread = 2
 peanutButter = 3
 jelly = 5
 print(bread + peanutButter + jelly)
 
-#Task 2:Bank interest 
+#Question 1 Task 2:Bank interest 
 
 principal = 10000
 rate = 7
