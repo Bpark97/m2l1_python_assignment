@@ -1,4 +1,4 @@
-#Task 1:Code Correction
+#Question 3 Task 1:Code Correction
 
 weather = "sunny"
 
@@ -7,7 +7,7 @@ if weather == "sunny":
 else:
     print("Take an umbrella!")
 
-#Task 2:Your mood today
+#Question 3 Task 2:Your mood today
 
 mood = "happy"
 
